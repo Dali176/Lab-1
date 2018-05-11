@@ -38,4 +38,5 @@ xyz();
 
 * Why are we learning JS? The language is outdated in modern web.
 * Will this just be basic JS or will it be useful for todays use?
+
 ![Image of -v] (https://github.com/Dali176/Lab-1/blob/master/images/Screenshot%20(34).png)
