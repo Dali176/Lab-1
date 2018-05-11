@@ -12,4 +12,4 @@ var food = fs.readFile('food.txt', 'utf8', function(err, food) {
 }};
 ```
 
-##Answer: asynchronous because it uses a callack function
+## Answer: asynchronous because it uses a callack function
