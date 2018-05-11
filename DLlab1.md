@@ -12,4 +12,30 @@ var food = fs.readFile('food.txt', 'utf8', function(err, food) {
 }};
 ```
 
-## Answer: asynchronous because it uses a callack function
+## Answer: Asynchronous because it uses a callback function
+
+2. Is the following code synchronous or asynchronous?
+
+```js
+function abc()
+{
+   console.log('abc');
+}
+
+
+function xyz()
+{
+   abc()
+   console.log('xyz');
+}
+var one = 1;
+xyz();
+```
+
+## Answer: Synchronous because it has to go in order, and isn't parallel
+
+# 2 Questions I still have are...
+
+* Why are we learning JS? The language is outdated in modern web.
+* 
+![Image of -v] (https://)
